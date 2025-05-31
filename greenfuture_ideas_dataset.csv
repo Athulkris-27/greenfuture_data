@@ -1,0 +1,6 @@
+employee_id,office_location,department,idea_submission_date,idea_title,idea_category,number_of_votes,collaboration_status,approval_status,implementation_status,security_concern_flag
+1001,London,R&D,2025-03-10,Solar Pavement,Infrastructure,25,Yes,Approved,Implemented,False
+1002,New York,Marketing,2025-03-12,Eco Ads,Marketing,40,No,Pending,Not Started,False
+1003,Tokyo,R&D,2025-03-15,Smart Grid,Energy,10,Yes,Rejected,Not Started,True
+1004,Berlin,Design,2025-03-18,Green App,App,60,Yes,Approved,In Progress,False
+1005,Sydney,Tech,2025-03-20,Water Saver,Utility,5,No,Pending,Not Started,False
